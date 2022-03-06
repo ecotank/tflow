@@ -1,0 +1,1068 @@
+/* LOGO TFLOW ATAS */
+
+
+/* tFlow-text */
+
+
+position: absolute;
+width: 70px;
+height: 29px;
+left: 141px;
+top: 50px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* tFlow-logo */
+
+
+position: absolute;
+width: 63px;
+height: 50px;
+left: 68px;
+top: 40px;
+
+
+/* BUTTON DAFTAR DAN MASUK */
+
+
+/* button-daftar */
+
+
+position: absolute;
+width: 49px;
+height: 23px;
+left: 1111px;
+top: 53px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #525252;
+
+
+
+/* button-bg */
+
+
+position: absolute;
+width: 92px;
+height: 38px;
+left: 1175px;
+top: 46px;
+
+background: #9A9483;
+border-radius: 20px;
+
+
+/* button-masuk */
+
+
+position: absolute;
+width: 51px;
+height: 23px;
+left: 1196px;
+top: 53px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* NAVBAR */
+
+/* tombol-beranda */
+
+
+position: absolute;
+width: 178px;
+height: 43px;
+left: 51px;
+top: 153px;
+
+background: #292929;
+border-radius: 5px;
+
+
+/* beranda-text */
+
+
+position: absolute;
+width: 66px;
+height: 23px;
+left: 121px;
+top: 163px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* illustrasi-rumah */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 78px;
+top: 164px;
+
+background: #FFFFFF;
+
+/* button-umkm */
+
+
+position: absolute;
+width: 178px;
+height: 43px;
+left: 51px;
+top: 206px;
+
+border-radius: 5px;
+
+
+/* umkm */
+
+
+position: absolute;
+width: 48px;
+height: 23px;
+left: 121px;
+top: 216px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #525252;
+
+
+
+/* store */
+
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 75.5px;
+top: 215px;
+
+background: #514343;
+
+/* tombol-kesehatan */
+
+
+position: absolute;
+width: 178px;
+height: 43px;
+left: 51px;
+top: 259px;
+
+border-radius: 5px;
+
+
+/* kesehatan */
+
+
+position: absolute;
+width: 83px;
+height: 23px;
+left: 121px;
+top: 269px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #525252;
+
+
+
+/* illustrasi=kesehatan */
+
+
+position: absolute;
+width: 23px;
+height: 25px;
+left: 76px;
+top: 268px;
+
+background: #514343;
+
+/* financial */
+
+
+position: absolute;
+width: 70px;
+height: 23px;
+left: 121px;
+top: 322px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #525252;
+
+
+
+/* button-umkm */
+
+
+position: absolute;
+width: 178px;
+height: 43px;
+left: 51px;
+top: 312px;
+
+border-radius: 5px;
+
+
+/* wallet-illustration */
+
+
+position: absolute;
+left: 5.49%;
+right: 92.68%;
+top: 10.4%;
+bottom: 88.89%;
+
+background: #514343;
+
+/* CONTAINER WELCOME */
+
+/* rectangle-bg */
+
+
+position: absolute;
+width: 1050px;
+height: 516px;
+left: 257px;
+top: 130px;
+
+background: #9A9483;
+border-radius: 50px;
+
+
+/* illustrasi-youngman */
+
+
+position: absolute;
+width: 195px;
+height: 395px;
+left: 978px;
+top: 191px;
+
+background: url(.png);
+
+
+/* Hello! Selamat datang di tFlow! */
+
+
+position: absolute;
+width: 473px;
+height: 240px;
+left: 399px;
+top: 268px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: bold;
+font-size: 63px;
+line-height: 80px;
+
+color: #FFFFFF;
+
+text-shadow: 4px 4px 4px #555555;
+
+
+/* TOMBOL PANDUAN */
+
+/* tombol-panduan */
+
+
+position: absolute;
+width: 178px;
+height: 254px;
+left: 51px;
+top: 392px;
+
+background: linear-gradient(180deg, #C7BEA2 54.17%, rgba(199, 190, 162, 0.2) 100%);
+border-radius: 20px;
+
+
+/* illustrasi-woman */
+
+
+position: absolute;
+width: 115px;
+height: 159px;
+left: 104px;
+top: 487px;
+
+background: url(.png);
+
+
+/* panduan-pengguna */
+
+
+position: absolute;
+width: 97px;
+height: 44px;
+left: 75px;
+top: 410px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.49);
+
+
+/* DESKRIPSI */
+
+/* background */
+
+
+position: absolute;
+width: 1264px;
+height: 610px;
+left: 51px;
+top: 733px;
+
+background: linear-gradient(180deg, #C7BEA2 31.33%, rgba(199, 190, 162, 0) 77.13%);
+border-radius: 40px;
+
+
+/* illustrasi-confused-boy */
+
+
+position: absolute;
+width: 337px;
+height: 373px;
+left: 923px;
+top: 784px;
+
+background: url(.png);
+
+
+/* teks-deskripsi */
+
+
+position: absolute;
+width: 725px;
+height: 180.46px;
+left: 136px;
+top: 845px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 25px;
+/* or 147% */
+
+text-align: justify;
+
+color: #5B574B;
+
+
+
+/* pertanyaan */
+
+
+position: absolute;
+width: 551.71px;
+height: 17.23px;
+left: 136px;
+top: 775px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 43px;
+
+color: #5B574B;
+
+/* deskripsi fitur */
+
+/* judul-apa saja */
+
+
+position: absolute;
+width: 366px;
+height: 145px;
+left: 107px;
+top: 1300px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+/* container deskripsi fitur */
+
+/* judul */
+
+
+position: absolute;
+width: 306px;
+height: 32px;
+left: 140px;
+top: 1522px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* pertanyaan */
+
+
+position: absolute;
+width: 169px;
+height: 23px;
+left: 140px;
+top: 1649px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 23px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* deskripsi-fitur */
+
+
+position: absolute;
+width: 301px;
+height: 49px;
+left: 140px;
+top: 1577px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+letter-spacing: 0.0175em;
+
+color: #FFFFFF;
+
+/* deskripsi-fitur */
+
+
+position: absolute;
+width: 125.82px;
+height: 29.18px;
+left: 143.47px;
+top: 1785.97px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* illustrasi-umkm */
+
+
+position: absolute;
+width: 64.74px;
+height: 86.62px;
+left: 174.47px;
+top: 1694.79px;
+
+background: url(.png);
+
+/* illustrasi-cc */
+
+
+position: absolute;
+width: 70.21px;
+height: 53.79px;
+left: 337.68px;
+top: 1711.21px;
+
+background: url(.png);
+
+
+/* deskripsi-fitur */
+
+
+position: absolute;
+width: 147.71px;
+height: 29.18px;
+left: 298.47px;
+top: 1785.97px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+/* deskripsi-fitur */
+
+
+position: absolute;
+width: 85.71px;
+height: 29.18px;
+left: 329.47px;
+top: 1940.06px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* web-page */
+
+
+position: absolute;
+width: 72.94px;
+height: 58.35px;
+left: 336.76px;
+top: 1871.68px;
+
+background: url(.png);
+
+/* deskripsi-fitur */
+
+
+position: absolute;
+width: 136.76px;
+height: 29.18px;
+left: 143.47px;
+top: 1940.39px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 11px;
+line-height: 13px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* syringe with blue liquid */
+
+
+position: absolute;
+width: 49.91px;
+height: 53.18px;
+left: 169px;
+top: 1917.6px;
+
+background: url(.png);
+transform: matrix(0.93, 0.36, 0.36, -0.93, 0, 0);
+
+
+/* thermometer showing 37 celsius */
+
+
+position: absolute;
+width: 51.3px;
+height: 53.74px;
+left: 207.76px;
+top: 1865.29px;
+
+background: url(.png);
+transform: rotate(25.35deg);
+
+/* background */
+
+
+position: absolute;
+width: 381px;
+height: 300px;
+left: calc(50% - 381px/2 - 0.19px);
+top: calc(50% - 300px/2 - 27.12px);
+
+background: conic-gradient(from 193.12deg at 79.7% -72.91%, #C7BEA2 0deg, #E9E2CE 360deg);
+border-radius: 35px;
+
+
+/* illustrasi-umkm */
+
+
+position: absolute;
+width: 175px;
+height: 175px;
+left: 85.71px;
+top: 30px;
+
+background: url(.png);
+
+
+/* background */
+
+
+position: absolute;
+width: 113.9px;
+height: 35px;
+left: 504px;
+top: 1306px;
+
+background: #AAA492;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* umkm */
+
+
+position: absolute;
+width: 44.68px;
+height: 14.9px;
+left: 555.86px;
+top: 1316.32px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* illustrasi-umkm */
+
+
+position: absolute;
+width: 18.24px;
+height: 16.56px;
+left: 528.24px;
+top: 1315.49px;
+
+background: #FFFFFF;
+
+/* background */
+
+
+position: absolute;
+width: 383px;
+height: 344px;
+left: calc(50% - 383px/2 - 0.1px);
+top: calc(50% - 344px/2 - 51.32px);
+
+background: conic-gradient(from 193.12deg at 79.7% -72.91%, #C9C0A5 0deg, #E7E0CB 360deg);
+border-radius: 35px;
+
+
+/* illustrasi-finance */
+
+
+position: absolute;
+width: 175px;
+height: 175px;
+left: 86.53px;
+top: 64.29px;
+
+background: url(.png);
+
+
+/* background */
+
+
+position: absolute;
+width: 107.71px;
+height: 35px;
+left: calc(50% - 107.71px/2 - 120.97px);
+top: calc(50% - 35px/2 + 80.73px);
+
+background: #AAA492;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* finance */
+
+
+position: absolute;
+width: 61.09px;
+height: 15.89px;
+left: calc(50% - 61.09px/2 - 105.77px);
+top: calc(50% - 15.89px/2 + 80.35px);
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* illustrasi-dompet */
+
+
+position: absolute;
+width: 18.99px;
+height: 15.95px;
+left: calc(50% - 18.99px/2 - 154.8px);
+top: calc(50% - 15.95px/2 + 80.38px);
+
+background: #FFFFFF;
+
+/* background */
+
+
+position: absolute;
+width: 319px;
+height: 377px;
+left: calc(50% - 319px/2);
+top: calc(50% - 377px/2 - 26.5px);
+
+background: conic-gradient(from 193.12deg at 79.7% -72.91%, #C8BFA4 0deg, #E8E1CC 360deg);
+border-radius: 35px;
+
+
+/* illutrasi-virus */
+
+
+position: absolute;
+width: 69px;
+height: 70px;
+left: 111px;
+top: 148px;
+
+background: url(.png);
+
+
+/* illustrasi-syringe */
+
+
+position: absolute;
+width: 95.84px;
+height: 102.12px;
+left: 145.99px;
+top: 173.15px;
+
+background: url(.png);
+transform: matrix(0.76, 0.65, 0.65, -0.76, 0, 0);
+
+
+/* illustrasi-thermometer */
+
+
+position: absolute;
+width: 82.49px;
+height: 86.41px;
+left: 106px;
+top: 70px;
+
+background: url(.png);
+transform: rotate(25.35deg);
+
+
+/* background */
+
+
+position: absolute;
+width: 121.22px;
+height: 35px;
+left: calc(50% - 121.22px/2 + 300.64px);
+top: calc(50% - 35px/2 - 219.33px);
+
+background: #AAA492;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* faskes */
+
+
+position: absolute;
+width: 59.52px;
+height: 23.62px;
+left: calc(50% - 59.52px/2 + 312.76px);
+top: calc(50% - 23.62px/2 - 219.69px);
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* illustrasi-faskes */
+
+
+position: absolute;
+width: 14px;
+height: 20px;
+left: calc(50% - 14px/2 + 267px);
+top: calc(50% - 20px/2 - 219.5px);
+
+background: #FFFFFF;
+
+/* background */
+
+
+position: absolute;
+width: 381px;
+height: 269px;
+left: calc(50% - 381px/2 - 0.1px);
+top: calc(50% - 269px/2 - 42px);
+
+background: conic-gradient(from 193.12deg at 79.7% -72.91%, #C7BEA2 0deg, #E9E2CE 360deg);
+border-radius: 35px;
+
+
+/* illustrasi-woman */
+
+
+position: absolute;
+width: 133px;
+height: 133px;
+left: 92px;
+top: 36px;
+
+background: url(.png);
+
+
+/* background */
+
+
+position: absolute;
+width: 106.4px;
+height: 35px;
+left: 923px;
+top: 1756.88px;
+
+background: #AAA492;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 10px;
+
+
+/* lainnya */
+
+
+position: absolute;
+width: 44.68px;
+height: 16.3px;
+left: 966.12px;
+top: 1766.43px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* illustrasi-lainnya */
+
+
+position: absolute;
+width: 17.03px;
+height: 16.56px;
+left: 940.32px;
+top: 1766.51px;
+
+background: #FFFFFF;
+
+/* bulet gajelas dibawah */
+
+
+position: absolute;
+width: 1403.5px;
+height: 1129px;
+left: 337px;
+top: 2067px;
+
+background: #E5DCC3;
+
+/* bottom */
+
+
+position: absolute;
+width: 1366px;
+height: 459px;
+left: 0px;
+top: 2632px;
+
+background: #9A9483;
+
+
+/* ™ 2022 tFlow. Common Creative Karthala Team */
+
+
+position: absolute;
+width: 321px;
+height: 17px;
+left: 523px;
+top: 3058px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* kontak */
+
+
+position: absolute;
+width: 163px;
+height: 141.3px;
+left: 1126px;
+top: 2730px;
+
+
+
+/* bantuan-panduan */
+
+
+position: absolute;
+width: 142px;
+height: 216px;
+left: 859px;
+top: 2730px;
+
+
+
+/* fitur-lainnya */
+
+
+position: absolute;
+width: 102px;
+height: 192px;
+left: 632px;
+top: 2730px;
+
+
+
+/* fitur-utama */
+
+
+position: absolute;
+width: 162px;
+height: 240px;
+left: 345px;
+top: 2730px;
+
+
+
+/* tFlow */
+
+
+position: absolute;
+width: 143px;
+height: 50px;
+left: 77px;
+top: 2730px;
